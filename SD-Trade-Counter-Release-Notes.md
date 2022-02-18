@@ -4,6 +4,32 @@
 
 #### Enhancements
 
+- BCv9 App - The SD Trade Counter Till Receipt was converted from C/AL to AL extensions. 
+
+- BCv19 App - A User Role Centre was created for SD Trade Counter. 
+
+- BCv19 App - The product was streamlined for fast cash out. 
+
+- BCv19 App - A Till concept was added to SD Trade Counter. 
+
+- BCv19 App - The SD Trade Counter objects were renamed to our ISV standards. 
+
+- BCv19 App - C/AL objects were converted to AL extensions. 
+
+- BCv19 App - A big button FactBox panel was added to the Sales Order page for touch screen use. 
+
+- BCv19 App - SD Trade Counter logic and functionality was reworked to allow for optimised order entry. 
+
+- BCv19 App - The Cash Out Screen was optimised for fast cash out. Various icons and actions were added to the Cash Out Screen. 
+
+- BCv19 App - Standard notes and link actions were removed from the SD Trade Counter pages to keep pages as clear and as uncluttered as possible.   
+
+- BCv19 App - The product was made usable for a touch screen environment. 
+
+- Bcv19 App - Assisted Wizard Setup was added to the product. 
+
+- BCv19 App - Permission Sets were created for the Product. 
+
 - BCv19 App - If user Cashes Out using Multi Tender then all goes against the same Payment Method Code on Cash Out. 
 
 - BCv19 App - In the Cash Out page a message is raised if the customer is paying cash and the user chooses Quick Pay Card. The message prompts to ask the user if they want to pay the balance by card. 
@@ -45,32 +71,6 @@
 - BCv19 App - When the SD Trade Counter Sales Order page is open the focus is on the Scan Barcode field. 
 
 - BCv19 App - Change the User Role Centres to filter by the currently logged in user by default. 
-
-- BCv9 App - The SD Trade Counter Till Receipt was converted from C/AL to AL extensions. 
-
-- BCv19 App - A User Role Centre was created for SD Trade Counter. 
-
-- BCv19 App - The product was streamlined for fast cash out. 
-
-- BCv19 App - A Till concept was added to SD Trade Counter. 
-
-- BCv19 App - The SD Trade Counter objects were renamed to our ISV standards. 
-
-- BCv19 App - C/AL objects were converted to AL extensions. 
-
-- BCv19 App - A big button FactBox panel was added to the Sales Order page for touch screen use. 
-
-- BCv19 App - SD Trade Counter logic and functionality was reworked to allow for optimised order entry. 
-
-- BCv19 App - The Cash Out Screen was optimised for fast cash out. Various icons and actions were added to the Cash Out Screen. 
-
-- BCv19 App - Standard notes and link actions were removed from the SD Trade Counter pages to keep pages as clear and as uncluttered as possible.   
-
-- BCv19 App - The product was made usable for a touch screen environment. 
-
-- Bcv19 App - Assisted Wizard Setup was added to the product. 
-
-- BCv19 App - Permission Sets were created for the Product. 
 
 - BCv19 App - The Latest Version and AppSource URL fields were added to the About Page. 
 
