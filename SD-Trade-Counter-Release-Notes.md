@@ -1,10 +1,26 @@
 ## SD Trade Counter Releases
 
+### 3.0.0
+
+#### Enhancements
+
+- BCv20 App - A change was made to allow more than one user at a time to log into the same till. 
+
+- BCv20 App - A change was made to allow users to recall Quotes, Orders and Credit Memos even if they are not SD Trade Counter transactions. This transactions can be recalled using the Import action cue on the SD Trade Counter Transaction pages. 
+
+- BCv20 App - The Ship-To-Address details on the Ship-to Address cue were rearranged. 
+
+- BCv20 App - The External Document No. and the Your Reference fields were surfaced on the SD Trade Counter transaction pages. 
+
+- BCv20 App - The Shipping Agent field was surfaced on the Ship-to Address cue on the SD Trade Counter transaction pages. 
+
+- BCv20 App - A Boolean field was added to the Till Users Setup to Prompt for the Salesperson on every SD Trade Counter Transaction. This is to allow for when multiple users log in to the same till and users can choose their Salesperson Code. 
+
 ### 2.0.0
 
 #### Enhancements
 
-- BCv9 App - The SD Trade Counter Till Receipt was converted from C/AL to AL extensions. 
+- BCv19 App - The SD Trade Counter Till Receipt was converted from C/AL to AL extensions. 
 
 - BCv19 App - A User Role Centre was created for SD Trade Counter. 
 
