@@ -1,5 +1,25 @@
 ## SD Trade Counter Releases
 
+### 3.2.0
+
+#### Enhancements
+
+- BCv21 App - An option was added to the SD Trade Counter Setup,  Prompt Delete On Sales Order Exit, to allow users to leave an SD Trade Counter Order without being prompted to save or discard changes. A subscriber was also added to allow for custom functionality when a user navigates out of an SD Trade Counter Order. 
+
+- BCv21 App - Standard document release functionality was added to Trade Counter Sales Orders. Users can choose the Show Advanced Order Actions option in the Locations Setup. If this option is enabled, users can see the Release and Reopen actions in the SD Trade Counter Sales Order. An event subscriber was surfaced for before release and after release.
+
+- BCv21 App - Code was refactored to handle future removal of item cross reference. 
+
+- BCv21 App - There is no option to print a despatch docket or a sales invoice if a user chooses to pay for an order by choosing Sale on Account. An event subscriber was created to allow codeunit 81 or 82 to be called when Sales on Account is chosen. 
+
+- BCv21 App - A subscriber was added to allow a variation to the default selection of "1 - Cash" in the "Please Select Customer Type" prompt that is displayed when users choose to create a new Trade Counter Order, Refund or Quote. The subscriber also allows the text in the Please Select Customer Type prompt to be modified.  
+
+- BCv21 App - A subscriber was created to allow the selection of the customer account from the customer list to be overwritten. 
+
+#### Bug Fixes
+
+- BCv21 App - A change was made to the ISV Licence Notification procedure in SD Trade Counter to fix an issue that would raise an error when the language is changed from English to another language. 
+
 ### 3.1.0
 
 #### Enhancements
