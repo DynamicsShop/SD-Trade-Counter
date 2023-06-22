@@ -8,7 +8,7 @@
 
 #### Bug Fixes
 
-AppSource App - When selecting SD Trade Counter activity pages in the Tell Me/Search in a BCv22 environment, the activity pages were hanging.
+- AppSource App - When selecting SD Trade Counter activity pages in the Tell Me/Search in a BCv22 environment, the activity pages were hanging.
 
 ### 3.2.0
 
