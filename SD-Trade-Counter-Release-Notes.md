@@ -1,5 +1,15 @@
 ## SD Trade Counter Releases
 
+### 3.2.1
+
+#### Enhancements
+
+- AppSource App - A change was made to limit the SD ISV Tenant Subscriptions page to display just our SD ISV AppSource Apps and not other SD PTE Apps.
+
+#### Bug Fixes
+
+AppSource App - When selecting SD Trade Counter activity pages in the Tell Me/Search in a BCv22 environment, the activity pages were hanging.
+
 ### 3.2.0
 
 #### Enhancements
