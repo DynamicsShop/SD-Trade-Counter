@@ -8,6 +8,8 @@
 
 - AppSource App - A change was made to show stock warnings in the SD Trade Counter transactions as per standard D365 Business Central.
 
+- AppSource App - A change was made to the Assisted Setup functionality.
+
 - AppSource App - The links in the About page were updated.
 
 - AppSource App - The logo in the App was updated to the new logo.
