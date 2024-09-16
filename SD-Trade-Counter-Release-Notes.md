@@ -1,5 +1,17 @@
 ## SD Trade Counter Releases
 
+### 3.2.2
+
+#### Enhancements
+
+- AppSource App - A modification was made to the SDY UTTC Sales Order Subform Page. The SetSourceType Function was replaced by SetSource in the Order Promising Lines Page in 2024 release wave 2.
+
+- AppSource App - A change was made to show stock warnings in the SD Trade Counter transactions as per standard D365 Business Central.
+
+- AppSource App - The links in the About page were updated.
+
+- AppSource App - The logo in the App was updated to the new logo.
+
 ### 3.2.1
 
 #### Enhancements
