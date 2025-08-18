@@ -1,5 +1,23 @@
 ## SD Trade Counter Releases
 
+### 3.3.0
+
+#### Enhancements
+
+- AppSource App - A new Licence Activation and Setup Wizard was created to guide users through new installations of the app.
+
+- AppSource App - The notification to activate the app, displayed on a fresh install of SD Trade Counter, was added to the standard Business Central role centres.
+
+- AppSource App - Changes were made to the Manage Subscriptions page.
+
+- AppSource App - The Lead Subscription Link from the Request Subscription action in the Product Activation page was updated.
+
+- AppSource App - A new action was added to the Setup Card called View Our Apps. This action opens a page on AppSource pointing to all our Simply Dynamics Ltd apps.
+
+- AppSource App - A link to the user guide on the DynamicsShop page was added to the About page.
+
+- AppSource App - A minor change was made to the Product Activation page.
+
 ### 3.2.3
 
 #### Enhancements
@@ -405,3 +423,4 @@
 #### Enhancements
 
 - Initial C/AL Build of SD Trade Counter. 
+
