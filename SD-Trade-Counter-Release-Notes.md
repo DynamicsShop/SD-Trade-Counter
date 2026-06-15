@@ -368,55 +368,9 @@
 
 #### Bug Fixes
 
-- BCv19 App - Postings for Account Customers with a Refund given from the Till should have a Type Refund with a positive entry posted and allocated to the Credit Memo.
-
-- BCv19 App - If the Email Receipt option was switched off in the SD Trade Counter Order or Refund but a new line was added,  the Ship to Address added or updated, or a Signature Added then the Email Receipt option was switched on again.
-
-- BCv19 App - Choosing the Ship-to Address button in the SD Trade Counter Orders, Quotes or Refunds was not displaying the correct Ship-to Address details for the record.
-
-- BCv19 App - Choosing Email Receipt was not sending the Emails when Pay&Print was selected in the is not sending the email in the SD Trade Counter Payment Screen.
-
-- BCv19 App - When Background Scanning was turned on then when an item was scanned the Type field on the Sales Line was blanked out. 
-
-- BCv19 App - When the Z report was run the reconciled checkbox on the reconciled line was not updated.
-
-- BCv19 App - Fixed an issue where filter warnings were raised on the SD Trade Counter Order page when a Recalled Order for an Account Customer was posted. 
-
-- BCv19 App - A fix was made to prevent users from overpaying a Credit Refund to a customer. 
-
-- BCv19 App - An error that there was no  Cust. Ledger Entry within the Filter when choosing to Pay&Print Invoice was preventing record insertion into the SD Trade Counter Payment Tracking table. This was caused by the fact that a journal line couldn't be posted and was fixed by applying the payment line to invoice only if the invoice is "Open". 
-
-- BCv19 App - The Refunds in SD Trade Counter were not working correctly. 
-
-- BCv19 App - The Recall functions in the SD Trade Counter Order pages were not working. 
-
-- BCv19 App - The Take Payment action was added to the Cash Sale Order for the Account Sales Order screen. 
-
-- BCv19 App - In the Take Payment screen the change field was not updating when cash lines were deleted. 
-
-- BCv19 App - Receipts and Invoices were not printing after posting in the Take Payment screen. 
-
-- BCv19 App - The Unit Price was not editable on the sales order lines. 
-
-- BCv19 App - The new Account Sale was not initialised and displayed on the screen when in a Cash Sales Order and the Account Sale action was selected. 
-
-- BCv19 App - Fixed an issue where blank Cash Sales Orders were being created in the background when the Cash Sale action in the SD Trade Counter Sales Order was selected. 
-
-- BCv19 App - A payment entry was not being created after taking payment in SD Trade Counter. 
-
 - BCv19 App - Changed functionality to allow a user to easily pause order entry and move on to a new order. 
 
-- BCv19 App - The Till Invoice ID defined in the SD Trade Counter Setup was not printing when a payment was made. 
-
-- BCv19 App - An error was raised when a Till Code was inserted into the SD Trade Counter Till Setup. 
-
 - BCv19 App - When adding a Salesperson Code to the Trade Counter User Setup the Salesperson Name was not shown until you exited and then reopened the page. 
-
-- BCv19 App - The version of the released App was showing an incorrect version. 
-
-- BCv19 App - The Totals were not being calculated correctly in the Cash Out screen. 
-
-- BCv19 App - An issue with the Reset button on the Cash Out page was fixed. 
 
 ### 1.0.0
 
