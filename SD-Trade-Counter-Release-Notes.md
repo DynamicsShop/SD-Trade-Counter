@@ -12,7 +12,7 @@
 
 - An update was made to the message displayed on the Activation page on initial installation of the App.
 
-- The notification prompting users to activate a free trial of SD Interface Field Service on a fresh install has been limited to display no more than once per hour on standard role centres.
+- The notification prompting users to activate a free trial of SD Trade Counter on a fresh install has been limited to display no more than once per hour on standard role centres.
 
 ### 3.3.0
 
